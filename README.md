@@ -21,6 +21,8 @@ public class Guilherme extends Developer{
 	
 	{
 		languages.add("Java");
+		languages.add("JavaScript");
+		languages.add("C#");
 	};	
 
 }
@@ -61,9 +63,6 @@ public class Guilherme extends Developer{
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
+
 👔 [linkedin][linkedin]
 
