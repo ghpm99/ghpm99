@@ -13,9 +13,7 @@ public class Guilherme extends Developer{
 
 	private String name = "Guilherme Henrique";
 	
-	private String acknowledgements = "";
-	
-	private String primarySkillset = "";
+	private String primarySkillset = "Java";
 	
 	private ArrayList<String> languages = new ArrayList<>() ;
 	
