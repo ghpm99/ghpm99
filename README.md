@@ -20,7 +20,6 @@ public class Guilherme extends Developer{
 	{
 		languages.add("Java");
 		languages.add("JavaScript");
-		languages.add("C#");
 	};	
 
 }
