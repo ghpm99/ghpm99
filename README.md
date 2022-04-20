@@ -12,20 +12,22 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 public class Guilherme extends Developer{
 
 	private String name = "Guilherme Henrique";
-	
+
 	private String primarySkillset = "Java";
-	
+
 	private ArrayList<String> languages = new ArrayList<>() ;
-	
+
 	{
 		languages.add("Java");
 		languages.add("JavaScript");
-	};	
+		languages.add("TypeScript");
+		languages.add("Python");
+	};
 
 }
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Linguagens e Ferramentas:**
 
 <code><img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
